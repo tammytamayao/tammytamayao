@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ### 👩 About Me: 
 - My name is <b>Princess Tamayao</b> but you can call me <b>Tammy</b>!
 - I am a civil engineer👷‍♀️ aspiring to be a software engineer👩‍💻 from the Philippines.
-- I mainly code 💻 using Javascript and React on front-end and Ruby on Rails on back-end.
 - My hobbies include travelling✈️ and reading books 📚 
 - Right now, I am currently learning how to code in Python 3
 
@@ -65,3 +64,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tammytamayao&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
