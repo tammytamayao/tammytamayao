@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/princess-tamayao-734705145/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:tammytamayao@gmail.comL"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="mailto:tammytamayao@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 
 ---
