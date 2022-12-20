@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-### About Me: 
+### 👩 About Me: 
 - My name is <b>Princess Tamayao</b> but you can call me <b>Tammy</b>!
 - I am a civil engineer👷‍♀️ aspiring to be a software engineer👩‍💻 from the Philippines.
 - I mainly code 💻 using Javascript and React on front-end and Ruby on Rails on back-end.
@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 ---
 
-### Files & Portfolio:
+### 📂 Files & Portfolio:
 ➡️ This is my Resume <br/>
 ➡️ Checkout my Portfolio <br/>
 
 ---
 
-### Contact Me: 
+### ☎️ Contact Me: 
 
 <div id="badges">
   <a href="your-linkedin-URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
