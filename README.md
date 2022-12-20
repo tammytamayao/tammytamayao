@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### ☎️ Contact Me: 
 
 <div id="badges">
-  <a href="your-linkedin-URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/princess-tamayao-734705145/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="your-youtube-URL"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/></a>
 </div>
 
