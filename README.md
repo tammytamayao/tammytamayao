@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📂 Files & Portfolio:
+### 📂 Files and Portfolio:
 ➡️ This is my Resume <br/>
 ➡️ Checkout my Portfolio <br/>
 
