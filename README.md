@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 </div>
 
 ---
-### About Me: 
 
+### About Me: 
+#### - My name is Princess Tamayao but you can call me Tammy!
 #### - I am a civil engineer👷‍♀️ aspiring to be a software engineer👩‍💻 from the Philippines.
 #### - I mainly code 💻 using Javascript and React on front-end and Ruby on Rails on back-end.
 #### - My hobbies include travelling✈️ and reading books 📚 
