@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### 📂 Files and Portfolio:
 ➡️ This is my Resume <br/>
-➡️ Checkout my Portfolio <br/>
+➡️ Checkout my <a href="https://tammytamayao.github.io/portfolio-tamayao/">Portfolio</a><br/>
 
 ---
 
