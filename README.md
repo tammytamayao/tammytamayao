@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="tenor-gif-embed" data-postid="13247664" data-share-method="host" data-aspect-ratio="1.11321" data-width="100%"><a href="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">New Game Ahagon Umiko Programming GIF</a>from <a href="https://tenor.com/search/new+game+ahagon+umiko-gifs">New Game Ahagon Umiko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
