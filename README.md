@@ -22,25 +22,26 @@ Here are some ideas to get you started:
 ---
 
 ### About Me: 
-#### - My name is Princess Tamayao but you can call me Tammy!
-#### - I am a civil engineer👷‍♀️ aspiring to be a software engineer👩‍💻 from the Philippines.
-#### - I mainly code 💻 using Javascript and React on front-end and Ruby on Rails on back-end.
-#### - My hobbies include travelling✈️ and reading books 📚 
-#### - Right now, I am currently learning how to code in Python 3
+- My name is <b>Princess Tamayao</b> but you can call me <b>Tammy</b>!
+- I am a civil engineer👷‍♀️ aspiring to be a software engineer👩‍💻 from the Philippines.
+- I mainly code 💻 using Javascript and React on front-end and Ruby on Rails on back-end.
+- My hobbies include travelling✈️ and reading books 📚 
+- Right now, I am currently learning how to code in Python 3
 
 ---
+
+### Files & Portfolio:
+➡️ This is my Resume <br/>
+➡️ Checkout my Portfolio <br/>
+
+---
+
 ### Contact Me: 
 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  <a href="your-linkedin-URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="your-youtube-URL"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="your-twitter-URL"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 
 ---
