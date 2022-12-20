@@ -19,12 +19,16 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## Hi, I'm Tammy 👋
-#### - I am a civil engineer👷‍♀️ aspiring to be a software engineer👩‍💻.
+---
+### About Me: 
+
+#### - I am a civil engineer👷‍♀️ aspiring to be a software engineer👩‍💻 from the Philippines.
 #### - I mainly code 💻 using Javascript and React on front-end and Ruby on Rails on back-end.
 #### - My hobbies include travelling✈️ and reading books 📚 
+#### - Right now, I am currently learning how to code in Python 3
 
-
+---
+### Contact Me: 
 
 <div id="badges">
   <a href="your-linkedin-URL">
