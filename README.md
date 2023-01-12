@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - My name is <b>Princess Tamayao</b> but you can call me <b>Tammy</b>!
 - I am a civil engineer👷‍♀️ aspiring to be a software engineer👩‍💻 from the Philippines.
 - My hobbies include travelling✈️ and reading books 📚 
-- Right now, I am currently learning how to code in Python 3
+- Right now, I am currently developing a Project Management Application
 
 ---
 
