@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - My name is <b>Princess Tamayao</b> but you can call me <b>Tammy</b>!
 - I am a civil engineer👷‍♀️ turned software engineer👩‍💻 from the Philippines.
 - My hobbies include travelling✈️ and reading books 📚 
-- Right now, I am currently a working in a Japanese IT Company
+- Right now, I am currently working in a Japanese IT Company
 
 ---
 
