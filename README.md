@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ### 👩 About Me: 
 - My name is <b>Princess Tamayao</b> but you can call me <b>Tammy</b>!
-- I am a civil engineer👷‍♀️ aspiring to be a software engineer👩‍💻 from the Philippines.
+- I am a civil engineer👷‍♀️ turned software engineer👩‍💻 from the Philippines.
 - My hobbies include travelling✈️ and reading books 📚 
-- Right now, I am currently enrolled in a Solidity Online Course in Udemy
+- Right now, I am currently a working in a Japanese IT Company
 
 ---
 
