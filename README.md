@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📂 Files and Portfolio:
-➡️ This is my <a href="https://shorturl.at/W568v">Resume</a><br/>
+➡️ This is my <a href="https://drive.google.com/drive/u/0/folders/1kNcNDqy5kRTMzyp1VgO26FRFA5zbLv3j">Resume</a><br/>
 ➡️ Checkout my <a href="https://tammytamayao.github.io/portfolio-tamayao/">Portfolio</a><br/>
 
 ---
