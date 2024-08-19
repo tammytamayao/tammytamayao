@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### 📂 Files and Portfolio:
 ➡️ This is my <a href="https://drive.google.com/file/d/190X8dihpsmTXwdz-QX_n42_c5kvKcUrE/view?usp=sharing">Resume</a><br/>
 ➡️ Checkout my <a href="https://tammytamayao.github.io/portfolio-tamayao/">Personal Portfolio</a><br/>
-➡️ Here's a link to my <a href="https://drive.google.com/file/d/1wmVbQv2qmGiU26QHrRUXEDOtovug3UVC/view?usp=sharing">Work Portfolio</a><br/>
+➡️ Here's a link to my <a href="https://drive.google.com/file/d/1S6MKdlmcAfj36ANh96TeNyk8Pa2P9u_9/view?usp=sharing">Work Portfolio</a><br/>
 ---
 
 ### ☎️ Contact Me: 
