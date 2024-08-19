@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ---
 
 ### 📂 Files and Portfolio:
-➡️ This is my <a href="https://drive.google.com/drive/u/0/folders/1kNcNDqy5kRTMzyp1VgO26FRFA5zbLv3j">Resume</a><br/>
+➡️ This is my <a href="https://drive.google.com/file/d/1S6MKdlmcAfj36ANh96TeNyk8Pa2P9u_9/view?usp=sharing">Resume</a><br/>
 ➡️ Checkout my <a href="https://tammytamayao.github.io/portfolio-tamayao/">Personal Portfolio</a><br/>
-➡️ Here's a link to my <a href="https://drive.google.com/drive/u/0/folders/1kNcNDqy5kRTMzyp1VgO26FRFA5zbLv3j">Work Portfolio</a><br/>
+➡️ Here's a link to my <a href="https://drive.google.com/file/d/1wmVbQv2qmGiU26QHrRUXEDOtovug3UVC/view?usp=sharing">Work Portfolio</a><br/>
 ---
 
 ### ☎️ Contact Me: 
